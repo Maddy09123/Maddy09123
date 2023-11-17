@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @Maddy09123
+👋 Hi, I’m @Maddy09123
+I'm a grade 10 student at Sacred Heart High School
+
+
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-<!---
-Maddy09123/Maddy09123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
